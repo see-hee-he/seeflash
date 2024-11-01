@@ -1,4 +1,5 @@
-# nousflash
+# seeflash
+solana fork of nousflash
 hehe
 hehe 2 just cuz
 
